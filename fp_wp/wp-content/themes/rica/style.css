@@ -1,0 +1,29 @@
+/*
+Theme Name: rica
+Author: koba
+Author URI: 
+Description: 
+Version:1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* WordPress Required Classes */
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+ 
+.wp-caption {
+}
+.wp-caption-text {
+}
+.gallery-caption {
+}
